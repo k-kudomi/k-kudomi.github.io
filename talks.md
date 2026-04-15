@@ -1,10 +1,6 @@
 ## [Kazuki Kudomi](/)
 
-## Talks
-### Upcoming talks
-- None.
-
-### Past talks
+### Talks
 #### 2026
 1. *Enhanced ind-sheaves and the Tamarkin category*, Universität Augsburg, April 2026.
 1. *Applications of D’Agnolo-Kashiwara’s Riemann-Hilbert correspondence II: Solution complexes and characteristic cycles*, Universität Augsburg, April 2026.
