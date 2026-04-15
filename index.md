@@ -7,7 +7,7 @@
 
 I am a PhD student at [the Mathematical Institute, Tohoku University](http://www.math.tohoku.ac.jp/english/index-e.html).<br>
 Research interests: Algebraic analysis, D-modules, Microlocal sheaf theory, Symplectic geometry<br>
-Email: kazuki.kudomi.q3 *at* dc.tohoku.ac.jp
+Email: kazuki.kudomi.q3 [*at*] dc.tohoku.ac.jp
 ### [Papers](papers.md)
 ### [Talks](talks.md)
 ### [CV](cv-teaching.md)
