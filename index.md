@@ -6,7 +6,7 @@
 </h1>
 
 I am a PhD student at the Mathematical Institute, Tohoku University.<br>
-Email: zookie [at] dc.tohoku.ac.jp
+Email: zookie *at* dc.tohoku.ac.jp
 
 ### Research interests 
 - Algebraic analysis
