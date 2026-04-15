@@ -11,6 +11,6 @@ Email: zookie [at] dc.tohoku.ac.jp
 
 ### [Papers](papers.md)
 ### [Talks](talks.md)
-### [Teaching](teaching.md)
-### [CV](cv.md)
+### [CV&Teaching](cv-teaching.md)
+
 
