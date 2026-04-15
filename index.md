@@ -1,15 +1,15 @@
 # Test
 
 PhD student in mathematics.
-
-## Research interests
+My research interests are:
+- Algebraic analysis
 - D-modules
 - Microlocal sheaf theory
-- Algebraic analysis
+- Symplectic geometry
 
-## Pages
+
 - [Papers](papers.md)
 - [Talks](talks.md)
 
-## Contact
-- test at example.com
+
+Contact: test at example.com
