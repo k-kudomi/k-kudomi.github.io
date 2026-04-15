@@ -1,7 +1,7 @@
 ## [Kazuki Kudomi](/)
 
-## CV
-### University Education
+### CV
+#### University Education
 <div style="display: flex; margin-bottom: 6px;">
   <div style="width: 220px; flex-shrink: 0; white-space: nowrap;">April 2024 –</div>
   <div>
@@ -23,7 +23,7 @@
   <div>BSc in Mathematics, Tohoku University</div>
 </div>
 
-### Fellowships
+#### Fellowships
 <div style="display: flex; margin-bottom: 6px;">
   <div style="width: 220px; flex-shrink: 0; white-space: nowrap;">April 2025 – March 2027</div>
   <div>Research Fellowship for Young Scientists (DC2), JSPS</div>
