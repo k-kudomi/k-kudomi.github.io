@@ -32,5 +32,3 @@
   <div>Pioneering Research Support Project for PhD Students, Tohoku University</div>
 </div>
 
-## Teaching
-- test
