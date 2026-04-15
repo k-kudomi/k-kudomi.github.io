@@ -3,7 +3,7 @@
 ## CV
 ### University Education
 <div style="display: flex;">
-  <div style="width: 110px;">2024–</div>
+  <div style="width: 110px;">2024–: 
   <div>PhD in Mathematics, Tohoku University</div>
 </div>
 <div style="display: flex;">
