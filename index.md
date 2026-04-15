@@ -1,8 +1,8 @@
 <h2>
-  Kazuki Kudomi / 久富 一輝
-  <span style="font-size: 60%; font-weight: normal; margin-left: 10px;">
+  Kazuki KUDOMI / 久富 一輝
+  <!-- <span style="font-size: 60%; font-weight: normal; margin-left: 10px;">
     (Family name: Kudomi / Given name: Kazuki)
-  </span>
+  </span> -->
 </h2>
 
 I am a PhD student at [the Mathematical Institute, Tohoku University](http://www.math.tohoku.ac.jp/english/index-e.html).<br>
