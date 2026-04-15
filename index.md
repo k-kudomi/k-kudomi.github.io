@@ -7,11 +7,9 @@ PhD student in mathematics.
 - Microlocal sheaf theory
 - Algebraic analysis
 
-## Papers
-- To be added
-
-## Talks
-- To be added
+## Pages
+- [Papers](papers.md)
+- [Talks](talks.md)
 
 ## Contact
 - test at example.com
