@@ -34,3 +34,8 @@
   <div>Pioneering Research Support Project for PhD Students, Tohoku University</div>
 </div>
 
+<div style="display: flex; margin-bottom: 6px;">
+  <div style="width: 220px; flex-shrink: 0; white-space: nowrap;">April 2023 - March 2024</div>
+  <div>Global Hagi Scholarship, Tohoku University</div>
+</div>
+
