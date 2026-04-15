@@ -11,8 +11,7 @@
   <div style="width: 220px; flex-shrink: 0; white-space: nowrap;">April 2022 – March 2024</div>
   <div>
     MSc in Mathematics, Tohoku University<br>
-    Thesis: "Title of Your Master's Thesis"<br>
-    Supervisor: Prof. XXX
+    Supervisor: Prof. Kiyoshi Takeuchi
   </div>
 </div>
 
