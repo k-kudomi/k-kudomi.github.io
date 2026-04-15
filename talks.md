@@ -1,4 +1,4 @@
-# [Kazuki Kudomi](/)
+## [Kazuki Kudomi](/)
 
 ## Talks
 ### Upcoming talks
