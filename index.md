@@ -1,6 +1,6 @@
 # Kazuki Kudomi
 I am a PhD student at the Mathematical Institute, Tohoku University.<br>
-Contact: test at example.com
+Email: zookie [at] dc.tohoku.ac.jp
 
 ### Research interests 
 - Algebraic analysis
