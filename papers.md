@@ -1,4 +1,4 @@
-# [Kazuki Kudomi](index.md)
+# [Kazuki Kudomi](/)
 
 ## Papers
 ### Preprints
