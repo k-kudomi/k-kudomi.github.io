@@ -4,7 +4,10 @@
 ### University Education
 <div style="display: flex; margin-bottom: 6px;">
   <div style="width: 220px; flex-shrink: 0; white-space: nowrap;">April 2024 –</div>
-  <div>PhD in Mathematics, Tohoku University</div>
+  <div>
+    PhD in Mathematics, Tohoku University<br>
+    Supervisor: Prof. Kiyoshi Takeuchi
+  </div>
 </div>
 
 <div style="display: flex; margin-bottom: 6px;">
