@@ -8,7 +8,11 @@
 </div>
 <div style="display: flex;">
   <div style="width: 180px;">April 2022 – March 2024: </div>
-  <div>MSc in Mathematics, Tohoku University</div>
+  <div>  
+    MSc in Mathematics, Tohoku University<br>
+    Thesis: "Title of Your Master's Thesis"<br>
+    Supervisor: Prof. XXX
+  </div>
 </div>
 <div style="display: flex;">
   <div style="width: 180px;">April 2018 – March 2022: </div>
