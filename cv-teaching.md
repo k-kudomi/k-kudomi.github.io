@@ -6,7 +6,7 @@
   <div style="width: 220px; flex-shrink: 0; white-space: nowrap;">April 2024 –</div>
   <div>
     PhD in Mathematics, Tohoku University<br>
-    Supervisor: Prof. Kiyoshi Takeuchi
+    (Supervisor: Prof. Kiyoshi Takeuchi)
   </div>
 </div>
 
@@ -14,7 +14,7 @@
   <div style="width: 220px; flex-shrink: 0; white-space: nowrap;">April 2022 – March 2024</div>
   <div>
     MSc in Mathematics, Tohoku University<br>
-    Supervisor: Prof. Kiyoshi Takeuchi
+    (Supervisor: Prof. Kiyoshi Takeuchi)
   </div>
 </div>
 
