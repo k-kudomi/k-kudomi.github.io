@@ -1,4 +1,4 @@
-## [Kazuki Kudomi](/)
+## [Kazuki KUDOMI](/)
 
 ### Papers
 #### Preprints
