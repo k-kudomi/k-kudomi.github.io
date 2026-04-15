@@ -1,6 +1,6 @@
 <h2>
   Kazuki Kudomi / 久富 一輝
-  <span style="font-size: 40%; font-weight: normal; margin-left: 10px;">
+  <span style="font-size: 60%; font-weight: normal; margin-left: 10px;">
     (Family name: Kudomi / Given name: Kazuki)
   </span>
 </h2>
