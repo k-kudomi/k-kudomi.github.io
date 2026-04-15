@@ -7,11 +7,11 @@
   <div>PhD in Mathematics, Tohoku University</div>
 </div>
 <div style="display: flex; margin-bottom: 4px;">
-  <div style="width: 180px;">April 2022 – March 2024: </div>
-  <div>  
+  <div style="width: 180px;">April 2022 – March 2024</div>
+  <div>
     MSc in Mathematics, Tohoku University<br>
-    Thesis: "Title of Your Master's Thesis"<br>
-    Supervisor: Prof. XXX
+    <span style="font-size: 0.95em;">Thesis: "Title of Your Master's Thesis"</span><br>
+    <span style="font-size: 0.95em;">Supervisor: Prof. XXX</span>
   </div>
 </div>
 <div style="display: flex; margin-bottom: 4px;">
