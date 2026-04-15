@@ -2,20 +2,18 @@
 
 ## CV
 ### University Education
-<table>
-  <tr>
-    <td style="padding-right: 20px; vertical-align: top;">April. 2024 – </td>
-    <td>PhD in Mathematics, Tohoku University</td>
-  </tr>
-  <tr>
-    <td style="padding-right: 20px; vertical-align: top;">April. 2022 – March. 2024</td>
-    <td>MSc in Mathematics, Tohoku University</td>
-  </tr>
-  <tr>
-    <td style="padding-right: 20px; vertical-align: top;">April. 2018 – March. 2022</td>
-    <td>BSc in Mathematics, Tohoku University</td>
-  </tr>
-</table>
+<div style="display: flex;">
+  <div style="width: 110px;">2024–</div>
+  <div>PhD in Mathematics, Tohoku University</div>
+</div>
+<div style="display: flex;">
+  <div style="width: 110px;">2022–2024</div>
+  <div>MSc in Mathematics, Tohoku University</div>
+</div>
+<div style="display: flex;">
+  <div style="width: 110px;">2018–2022</div>
+  <div>BSc in Mathematics, Tohoku University</div>
+</div>
 
 
 ## Teaching
