@@ -24,12 +24,12 @@
 ### Fellowships
 <div style="display: flex; margin-bottom: 6px;">
   <div style="width: 220px; flex-shrink: 0; white-space: nowrap;">April 2025 – March 2027</div>
-  <div>PhD in Mathematics, Tohoku University</div>
+  <div>Research Fellowship for Young Scientists (DC2), JSPS</div>
 </div> 
 
 <div style="display: flex; margin-bottom: 6px;">
   <div style="width: 220px; flex-shrink: 0; white-space: nowrap;">April 2024 - March 2025</div>
-  <div>PhD in Mathematics, Tohoku University</div>
+  <div>Pioneering Research Support Project for PhD Students, Tohoku University</div>
 </div>
 
 ## Teaching
