@@ -1,5 +1,5 @@
 # Kazuki Kudomi
-I am a PhD student at the Mathematical Institute, Tohoku University.
+I am a PhD student at the Mathematical Institute, Tohoku University.<br>
 Contact: test at example.com
 
 ### Research interests 
