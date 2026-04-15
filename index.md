@@ -12,6 +12,6 @@ Recently, I have been studying some aspects of characteristic cycles of D-module
 #### [Papers](papers.md)
 #### [Talks](talks.md)
 #### [CV](cv-teaching.md)
-##### Email: kazuki.kudomi.q3 [*at*] dc.tohoku.ac.jp
+##### E-mail: kazuki.kudomi.q3 [*at*] dc.tohoku.ac.jp
 
 
