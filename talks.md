@@ -2,7 +2,7 @@
 
 ## Talks
 ### Upcoming talks
-- To be added
+- None.
 
 ### Past talks
 #### 2026
