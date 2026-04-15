@@ -1,9 +1,9 @@
-<h1>
+<h2>
   Kazuki Kudomi / 久富 一輝
   <span style="font-size: 40%; font-weight: normal; margin-left: 10px;">
     (Family name: Kudomi / Given name: Kazuki)
   </span>
-</h1>
+</h2>
 
 I am a PhD student at [the Mathematical Institute, Tohoku University](http://www.math.tohoku.ac.jp/english/index-e.html).<br>
 My research interests are algebraic analysis, D-modules, microlocal sheaf theory and symplectic geometry.<br>
