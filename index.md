@@ -10,6 +10,7 @@ I am PhD student in mathematics.
 
 ### [Papers](papers.md)
 ### [Talks](talks.md)
-
+### [Teaching](teaching.md)
+### [CV](cv.md)
 
 Contact: test at example.com
